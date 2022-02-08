@@ -1,1 +1,5 @@
-
+mylist = (1.5, 3.4, 5.1, 7.7)
+print(mylist[0])
+print(mylist[1])
+print(mylist[2])
+print(mylist[3])
